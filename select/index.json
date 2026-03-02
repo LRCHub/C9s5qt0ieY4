@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "むき出しの命めざめろ",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T19:55:39.126867Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "むき出しの命めざめろ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_むき出しの命めざめろ_サンボマスター.txt"
+    }
+  ]
+}
